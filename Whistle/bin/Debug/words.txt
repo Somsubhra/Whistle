@@ -1,0 +1,13 @@
+﻿-- format
+-- [text to recognize] | [text to display or execute] | [is text a command?]
+
+-- simple text --
+
+
+-- commands --
+play|play|true
+open|open|true
+stop|stop|true
+pause|pause|true
+new|open|true
+exit|exit|true

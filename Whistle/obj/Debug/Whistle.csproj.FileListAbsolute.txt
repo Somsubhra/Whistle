@@ -1,0 +1,8 @@
+C:\Users\Intel\documents\visual studio 2012\Projects\Whistle\Whistle\bin\Debug\Whistle.exe
+C:\Users\Intel\documents\visual studio 2012\Projects\Whistle\Whistle\bin\Debug\Whistle.pdb
+C:\Users\Intel\documents\visual studio 2012\Projects\Whistle\Whistle\obj\Debug\Whistle.csprojResolveAssemblyReference.cache
+C:\Users\Intel\documents\visual studio 2012\Projects\Whistle\Whistle\obj\Debug\Whistle.Form1.resources
+C:\Users\Intel\documents\visual studio 2012\Projects\Whistle\Whistle\obj\Debug\Whistle.Properties.Resources.resources
+C:\Users\Intel\documents\visual studio 2012\Projects\Whistle\Whistle\obj\Debug\Whistle.csproj.GenerateResource.Cache
+C:\Users\Intel\documents\visual studio 2012\Projects\Whistle\Whistle\obj\Debug\Whistle.exe
+C:\Users\Intel\documents\visual studio 2012\Projects\Whistle\Whistle\obj\Debug\Whistle.pdb
